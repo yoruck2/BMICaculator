@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8405810B2BFD1FAA00413F4D /* BMIRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8405810A2BFD1FAA00413F4D /* BMIRange.swift */; };
+		8405810D2BFD785E00413F4D /* BMIRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8405810A2BFD1FAA00413F4D /* BMIRange.swift */; };
 		84CF71412BFC94CB00144FB8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CF71402BFC94CB00144FB8 /* AppDelegate.swift */; };
 		84CF71432BFC94CB00144FB8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CF71422BFC94CB00144FB8 /* SceneDelegate.swift */; };
 		84CF71452BFC94CB00144FB8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CF71442BFC94CB00144FB8 /* ViewController.swift */; };
@@ -147,7 +147,7 @@
 			files = (
 				84CF71452BFC94CB00144FB8 /* ViewController.swift in Sources */,
 				84CF71412BFC94CB00144FB8 /* AppDelegate.swift in Sources */,
-				8405810B2BFD1FAA00413F4D /* BMIRange.swift in Sources */,
+				8405810D2BFD785E00413F4D /* BMIRange.swift in Sources */,
 				84CF71432BFC94CB00144FB8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
